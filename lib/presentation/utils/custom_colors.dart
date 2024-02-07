@@ -1,0 +1,43 @@
+import 'dart:ui';
+
+abstract class CustomColors {
+  static const primaryTextColor = Color(0xff18192B);
+  static const mirage = Color(0xff18192B);
+  static const geyser = Color(0xffDAE2E6);
+  static const manatee = Color(0xff8F9098);
+  static const charade = Color(0xff272b34);
+  static const apple = Color(0xff55cc44);
+  static const limeade = Color(0xff45A201);
+  static const cello = Color(0xff1C4159);
+  static const heather = Color(0xffB7C2CF);
+  static const pigeonPost = Color(0xffADC3D6);
+  static const bismark = Color(0xff4A6C80);
+  static const atlantis = Color(0xff8DBA29);
+  static const purpleHeart = Color(0xff9329BA);
+  static const superNova = Color(0xffFFCE00);
+  static const athensGray = Color(0xffF0F3F6);
+  static const kashmirBlue = Color(0xff4F7793);
+  static const calypso = Color(0xff316D94);
+  static const polar = Color(0xffeaf6fb);
+  static const linkWater = Color(0xffd1e1ef);
+  static const danube = Color(0xff74a4d0);
+  static const steelBlue = Color(0xff3e7bb4);
+  static const astral = Color(0xff3871a4);
+  static const easternBlue = Color(0xff298FBA);
+  static const webOrange = Color(0xffFFA300);
+  static const creamBrulee = Color(0xffFFDEA4);
+  static const valencia = Color(0xffD8362F);
+  static const tarawera = Color(0xff07425b);
+  static const matisse = Color(0xff1C759C);
+  static const hawkesBlue = Color(0xffE2F1FD);
+  static const nileBlue = Color(0xff192D55);
+  static const mojo = Color(0xffC74439);
+  static const ziggurat = Color(0xffC0D0DE);
+  static const dazzledBlue = Color(0xff336695);
+  static const bottomSheetBackground = Color(0xfff5f5f5);
+  static const bottomSheetShadow = Color(0xff397398);
+  static const paleAqua = Color(0xffBBD6E1);
+  static const glacier = Color(0xff7BAFC5);
+  static const pastelBlue = Color(0xffB4C3D0);
+  static const blueBayoux = Color(0xff516B7E);
+}
